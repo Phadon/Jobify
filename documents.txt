@@ -1,0 +1,14 @@
+User-Centered Design Process
+
+List of Deliverables
+  1. Challenges, Objectives and Stakeholder Interview
+  2. Competitor Analysis & Personas
+  3. User flow, Mood boards, Low-fidelity Wireframes
+  4. Branding Ideation
+  5. Brand Guidelines & Visual Concepts (UI)
+  6. Interaction Design (UX), Prototyping
+  7. Website Development & Quality Control
+  8. Launch
+
+
+Competitor Analysis: [https://asana.com/resources/competitive-analysis-example]
